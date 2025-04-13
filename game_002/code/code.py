@@ -149,7 +149,10 @@ enemy = {'max_health' : 10, 'attack_damage' : 1, 'reward_money' : 4, "reward_EXP
 #敵人數值預設值
 enemy_default = {'max_health' : 10, 'attack_damage' : 1, 'reward_money' : 4, "reward_EXP" : 1, 'attack_interval' : 3, 'current_health' : 10,'number' : 1, 'fire' : 0}
 
+#總傷害數值
 damage = {'damage': 0 , 'time' : 0,'combo' : 0}
+
+#總傷害數值預設值
 damage_default = {'damage': 0 , 'time' : 0,'combo' : 0}
 
 #當前周目
